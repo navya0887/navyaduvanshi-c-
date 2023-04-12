@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int a;
+	char b;
+	cout<<"enter the number AND character:";
+	cin>>a>>b;
+	cout<<"the number:"<<a<<endl;
+	cout<<"the character:"<<b<<endl;
+}
